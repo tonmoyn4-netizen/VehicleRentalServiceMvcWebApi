@@ -1,0 +1,17 @@
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.pdb
+TestResults/
+.idea/
+.vscode/
+*.mdf
+*.ldf
+*.bak
+Thumbs.db
+.DS_Store
+Images/*
+!Images/.gitkeep
